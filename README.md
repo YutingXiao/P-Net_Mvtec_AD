@@ -1,6 +1,6 @@
 # P-Net for Anomaly Detection (Pytorch)
 
-This is the implementation of our paper on MvTec dataset:
+This is the implementation of our ECCV-2020 paper on MvTec dataset:
 
 Kang Zhou*, Yuting Xiao*, Jianlong Yang, Jun Cheng, Wen Liu, Weixin Luo, Zaiwang Gu, 
 Jiang Liu, Shenghua Gao. 
@@ -12,7 +12,7 @@ Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal 
 This is the main P-Net implementation on Mvtec dataset. It consist of 2 parts: 1.Structure extraction
 pretrain. 2. Main P-Net. The complete version on medical image dataset
 can be found at https://github.com/ClancyZhou/P_Net_Anomaly_Detection
-![avatar](Intro.png) 
+![Image text](Intro.png)
 ### Environment
 This code is available on Python 3.6, PyTorch 1.4, torchvision 0.5, cuda 10.1.
 
