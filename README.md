@@ -27,7 +27,7 @@ The dataset can be downloaded [here](https://www.mvtec.com/company/research/data
 We use visdom to visualize the result. You can find the details of visdom at 
 [here](https://github.com/facebookresearch/visdom/).
 
-Modify the detail
+Modify the `--port` and `--server` to specify the prot and the server. These are defined in utils/parser.py. 
 
 ## Getting started
 We provide an example on cable clss of Mvtec dataset to show how to train and test our model.
